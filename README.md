@@ -3,6 +3,7 @@ Check if Ruby is installed:
 Open your terminal and type:
 
 ruby -v
+
 If Ruby is installed, you’ll see the version number.
 
 Install Ruby :
