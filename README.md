@@ -21,3 +21,5 @@ Run the following command:
 ruby kusoge.rb
 
 Enjoy playing Kusoge!
+
+<img width="502" alt="スクリーンショット 2025-05-19 22 44 48" src="https://github.com/user-attachments/assets/dd642478-bd59-46ef-a132-c143757468fd" />
