@@ -1,6 +1,6 @@
-How to Play Kusoge
-Check if Ruby is installed:
-Open your terminal and type:
+How to Play Kusoge<br>
+Check if Ruby is installed:<br>
+Open your terminal and type:<br>
 
 ruby -v
 
